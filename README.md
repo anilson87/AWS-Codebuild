@@ -20,3 +20,4 @@
             ], \
             "Resource": "arn:aws:lambda:us-east-1:086796595852:function:github-codebuild-demo" \
         }, \
+..
